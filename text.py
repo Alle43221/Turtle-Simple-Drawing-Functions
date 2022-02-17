@@ -18,7 +18,7 @@ class Figures:
         skk.forward(side1_length_adjusted)
         skk.right(90)
         skk.forward(side2_length_adjusted)
-
+ 
     def draw_isosceles_triangle(side1_length, side2_length):
         skk.forward(side2_length)
         skk.left(105)
