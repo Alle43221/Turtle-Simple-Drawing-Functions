@@ -1,2 +1,0 @@
-
-1. Write draw_rainbow method
